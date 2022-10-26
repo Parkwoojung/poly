@@ -40,7 +40,7 @@
 <style>
     * {
         font-family: 'The110';
-        src: url('/assets/font/The110.ttf');
+        src: url('static/assets/font/The110.ttf');
 
     }
 
@@ -69,7 +69,7 @@
 
     @font-face {
         font-family: 'The110';
-        src: url('/assets/font/The110.ttf') format('woff');
+        src: url('static/assets/font/The110.ttf') format('woff');
         font-weight: normal;
         font-style: normal;
     }
@@ -1476,7 +1476,7 @@
     <a class="scrollToHome" href="#"><i class="fa fa-angle-up"></i></a>
 </div>
 <!-- Wrapper End -->
-<script src="/assets/js/jquery-3.6.0.js"></script>
+<script src="resource/assets/js/jquery-3.6.0.js"></script>
 <script src="/assets/js/jquery-migrate-3.0.0.min.js"></script>
 <script src="/assets/js/popper.min.js"></script>
 <script src="/assets/js/bootstrap.min.js"></script>

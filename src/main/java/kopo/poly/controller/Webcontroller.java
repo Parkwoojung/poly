@@ -17,11 +17,12 @@ public class Webcontroller {
 
     private final IWebService webService;
 
-    @GetMapping("/")
+    @GetMapping("/index")
     public String index() {
         log.info(this.getClass().getName() + "인덱스 시작!");
 
         return "/index";
+
     }
 
     @GetMapping("/test")

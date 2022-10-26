@@ -64,7 +64,7 @@
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-                    <a href="../index.jsp"><img src="/assets/img/a_logo_1.png" class="img-fluid animated" alt="" style="padding-top: 50%;  padding-left: 1%; width: 500px;" ></a>
+                    <a href="index.jsp"><img src="/assets/img/a_logo_1.png" class="img-fluid animated" alt="" style="padding-top: 50%;  padding-left: 1%; width: 500px;" ></a>
                 </div>
             </div>
              <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
